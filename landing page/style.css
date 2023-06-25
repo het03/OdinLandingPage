@@ -30,17 +30,15 @@
     background-color: #1f2938;
     display: flex;
     gap: 2%;
-    height: auto;
+    height: 480px;
     width: 100%;
-    justify-content: space-around;
     align-items: center;
-    padding: 0% 8% 0% 8%;
 }
 .web-text{
     width: 50%;
     height: auto;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     flex-direction: column;
     gap: 10px;
 }
